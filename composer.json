@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "tecnickcom/tcpdf": "*",
+        "infobip/infobip-api-php-client": "^5.1",
+        "phpoffice/phpspreadsheet": "^3.3"
+    }
+}
